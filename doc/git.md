@@ -23,4 +23,5 @@
   - hogeブランチをつくる
 - git switch fuga
   - git branch -a で確認できたfugaブランチに移動する
-- git stash 
+- git push
+  - 変更内容をpushする
