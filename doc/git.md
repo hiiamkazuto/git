@@ -8,7 +8,7 @@
 - git commit or git commit -av
   - viと同じように書く
 - git reset --hard
-  - 直前のaddまで戻る
+  - 直前のaddまで戻る(今まで書いていた内容は削除される)
 - git stash save
   - stashに現在の変更を保存しておく
 - git stash list
